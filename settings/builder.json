@@ -1,0 +1,35 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2048game",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "49e8c3b1-727b-4a7a-860e-d34ffd9a7e9e",
+  "title": "2048game",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://duqipai.56.com/2048dev",
+    "appid": "wxa656d179c77a07fb",
+    "orientation": "portrait",
+    "subContext": "SubGame"
+  },
+  "xxteaKey": "3790e36c-2cec-4d",
+  "zipCompressJs": true
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "gamePrefab",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 714,
+      "height": 714
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 18,
+      "y": 916
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "24544453-c6d3-4be8-bba7-82c1626340c8"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "isAlignOnce": true,
+    "_target": null,
+    "_alignFlags": 17,
+    "_left": 0,
+    "_right": 0,
+    "_top": 418,
+    "_bottom": 0,
+    "_verticalCenter": -95,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 0,
+    "_originalHeight": 0
+  },
+  {
+    "__type__": "e8a1bFu0QNLbpHyby7M5ue2",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "mergeAudio": {
+      "__uuid__": "ea13d0f1-2997-4c77-accd-c4d7b015adf4"
+    },
+    "moveAudio": {
+      "__uuid__": "2e0cc9d2-3672-406f-ac91-8050f47c5dbf"
+    },
+    "numberPrefab": {
+      "__uuid__": "420501d3-d458-41ae-8401-4660954433ea"
+    },
+    "numberBgArray": [
+      {
+        "__uuid__": "d09f7d28-fd22-4df6-99de-1fca51313d17"
+      },
+      {
+        "__uuid__": "89a58325-a068-47db-9135-e1db13a892da"
+      },
+      {
+        "__uuid__": "7cc479f3-7203-4dc3-9fe5-901ad3e92136"
+      },
+      {
+        "__uuid__": "b3458bfb-c667-4ae7-be6e-4ae9bfc80842"
+      },
+      {
+        "__uuid__": "158c2898-738f-4f36-8b8b-ab79475022c6"
+      },
+      {
+        "__uuid__": "abeaa256-6ff4-4656-9853-65c52780d3be"
+      },
+      {
+        "__uuid__": "4f98b496-6ccb-4e47-9531-2d056d68671e"
+      },
+      {
+        "__uuid__": "64981678-06f0-4fdd-bb45-5f071583de62"
+      },
+      {
+        "__uuid__": "2a427fdd-343b-4584-b16a-12625dbda2de"
+      },
+      {
+        "__uuid__": "a2c49035-f155-4078-ae44-68bc2e80a301"
+      },
+      {
+        "__uuid__": "f3c875b6-069c-4267-ab91-cb3aab99c815"
+      },
+      {
+        "__uuid__": "5728c878-285e-45b2-8962-d37f98a28cf7"
+      },
+      {
+        "__uuid__": "927e534d-b4b5-4b32-8584-0b5ce74f1f81"
+      },
+      {
+        "__uuid__": "36641645-b730-459b-b927-560b94c2ac96"
+      },
+      {
+        "__uuid__": "670871f0-eba3-449e-9b82-3148ad5155e8"
+      },
+      {
+        "__uuid__": "15d577ba-0e60-4aac-b5ca-292241067e7b"
+      }
+    ]
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "6ceb8bb4-e048-45bf-acce-5c1d610db0f5"
+    },
+    "fileId": "24/IjH+flOkJGJ8OuQ/Yp4",
+    "sync": false
+  }
+]
