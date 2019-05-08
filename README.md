@@ -12,5 +12,4 @@ It is a Cocos Creator project which can be built to WeChat game, web game, and n
 Cocos Creator 1.8.0 or above is needed
 
 ## Snapshots
-
-![](./snapshots/1553236117119.jpg)
+<img src="./snapshots/1553236117119.jpg" width="150" height="300"/>
